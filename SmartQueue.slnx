@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmartQueue.Api/SmartQueue.Api.csproj" />
+    <Project Path="src/SmartQueue.Application/SmartQueue.Application.csproj" />
+    <Project Path="src/SmartQueue.Domain/SmartQueue.Domain.csproj" />
+    <Project Path="src/SmartQueue.Infrastructure/SmartQueue.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmartQueue.Tests/SmartQueue.Tests.csproj" />
+  </Folder>
+</Solution>
